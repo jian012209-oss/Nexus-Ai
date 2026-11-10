@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="tagline">Your Phone. Your Intelligence. Your Control.</string>
+    <string name="accessibility_label">JARVIS AI phone control</string>
+    <string name="accessibility_description">Lets JARVIS go home, go back, open recent apps, lock the screen, take screenshots, scroll, tap buttons by name, type text and read the screen aloud, only when you give a voice or text command. JARVIS never records or uploads your screen.</string>
+    <string name="notif_listener_label">JARVIS AI notification reader</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- J.A.R.V.I.S. red HUD palette -->
+    <color name="bg">#FF070102</color>
+    <color name="navy">#FF1A0507</color>
+    <color name="cyan">#FFFF2E2E</color>        <!-- primary HUD red -->
+    <color name="electric">#FFB3121B</color>    <!-- deep red -->
+    <color name="amber">#FFFFA12E</color>       <!-- HUD orange -->
+    <color name="hud_green">#FF3DFF8A</color>   <!-- HUD green arcs -->
+    <color name="danger">#FFFF6B7A</color>
+    <color name="good">#FF3DFF8A</color>
+    <color name="text">#FFFFECE8</color>
+    <color name="text_dim">#FFB88F8A</color>
+    <color name="glass">#1AFF3B30</color>
+    <color name="glass_strong">#33FF2E2E</color>
+    <color name="glass_line">#55FF3B30</color>
+</resources>
